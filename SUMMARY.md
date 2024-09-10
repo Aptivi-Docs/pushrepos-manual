@@ -4,7 +4,7 @@
 
 ## Releases
 
-* [🗞 Version Release Notes](releases/version-release-notes.md)
+* [🗞️ Version Release Notes](releases/version-release-notes.md)
 
 ## Installation
 
