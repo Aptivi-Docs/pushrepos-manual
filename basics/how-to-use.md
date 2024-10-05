@@ -1,8 +1,9 @@
 ---
 description: How do you use this script?
+icon: question
 ---
 
-# ❓ How to use?
+# How to use?
 
 Running this script is so easy, especially when you have to push a change to hundreds of repositories in your Git repository library (a directory containing your Git repositories) on the remote side.
 

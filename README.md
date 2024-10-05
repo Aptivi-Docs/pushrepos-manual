@@ -1,8 +1,9 @@
 ---
 description: Welcome to pushrepos!
+icon: hand-wave
 ---
 
-# 👋 Welcome!
+# Welcome!
 
 Welcome to `pushrepos`, which is a very small `bash` script that lets you push your changes to the remote of all your repositories found under a folder containing all your Git repositories.
 
