@@ -16,5 +16,5 @@
 
 ***
 
-* [Report an issue](https://gitlab.com/aptivi/powertools/linux/pushrepos/-/issues)
-* [Source code](https://gitlab.com/aptivi/powertools/linux/pushrepos)
+* [Report an issue](https://github.com/Aptivi-LPT/pushrepos/issues/new)
+* [Source code](https://github.com/Aptivi-LPT/pushrepos/)
